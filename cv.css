@@ -1,0 +1,60 @@
+div {
+    margin-left: 40px;
+}
+
+body {
+    background-color: beige;
+    font-family:sans-serif;
+    margin-right: 10%;
+}
+
+#contactDiv {
+    padding: 15px;
+    margin-left: 10px;
+    width: 330px;
+    background-color: darkseagreen;
+    border-radius: 45px;
+    text-align: center;
+    position: fixed;
+    padding-bottom: 3%;
+    margin-top: 1%;
+}
+
+p {
+    padding-bottom: 30px;
+    margin-top: -15px;
+    font-size: larger;
+}
+
+#bioP {
+    margin-top: 5px;
+    font-weight: 400;
+    margin-bottom: -40px;
+}
+
+#cvImage {
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.left {
+    text-align: left;
+    
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto;
+    color:black !important ;
+}
+
+#cvData {
+    margin-top: 336px;
+    margin-left: 355px;
+}
+
+.myName {
+    margin-bottom: -5px;
+}
